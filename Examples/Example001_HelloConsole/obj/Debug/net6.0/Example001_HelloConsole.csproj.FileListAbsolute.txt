@@ -1,0 +1,15 @@
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Треугольники\Examples\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
